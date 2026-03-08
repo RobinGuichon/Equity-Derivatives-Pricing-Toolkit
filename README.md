@@ -1,15 +1,3 @@
-Raquette padle 
-
-Vertex 04 :  \
-Vertex 04 H :  154,99
-
-05 : 271
- 271,99
-
-scintillating-cucurucho-56addf.netlify.app
-
-
-
 # 🧪 Options Lab: Applied Quantitative Finance Engine
 
 **Options Lab** is an interactive, web-based quantitative finance toolkit designed for pricing equity derivatives, analyzing dynamic risk metrics (Greeks), and visualizing market models. Built entirely with React, it bridges advanced stochastic mathematical models with a high-performance front-end architecture.
@@ -22,7 +10,7 @@ scintillating-cucurucho-56addf.netlify.app
 
 ### 1. Dynamic Pricing & Payoff Profiling
 Visualizing the Extrinsic Value (Time Value) by comparing the dynamic Current Price (t=0) against the Theoretical Payoff at maturity (T).
-![Pricing Dashboard](./Images/1.jpg)
+![Pricing Dashboard](./Images/1.png)
 
 ### 2. Advanced Monte Carlo Simulations
 Stochastic path rendering and probabilistic distribution of payoffs for complex structured products like Autocalls and Barrier options.
@@ -30,7 +18,7 @@ Stochastic path rendering and probabilistic distribution of payoffs for complex 
 
 ### 3. Dynamic Risk Analytics (Greeks)
 Real-time computation and visualization of 1st and 2nd-order Greeks across the underlying spot using Central Finite Differences.
-![Greeks Profiling](./Images/2.jpg)
+![Greeks Profiling](./Images/2.png)
 
 ### 4. Interactive 3D Volatility Surface
 Parametric modeling of the Implied Volatility Skew and Term Structure, fully interactive in 3D.
